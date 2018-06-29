@@ -37,4 +37,6 @@
 
 * Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. https://github.com/Microsoft/VoTT
 
-*
+## Music generator
+
+* The challenge of realistic music generation: modelling raw audio at scale https://arxiv.org/abs/1806.10474 https://drive.google.com/drive/folders/1fvS-DU8AcK078-5k6WGudiBn0XSeE0_D
